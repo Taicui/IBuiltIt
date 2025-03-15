@@ -5,6 +5,17 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#80D8FF"
+    android:backgroundTint="#80D8FF"
     tools:context=".BuildActivity">
 
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#5BDEEF"
+        android:backgroundTint="#1CB6CA"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"></LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
