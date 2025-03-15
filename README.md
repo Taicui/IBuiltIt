@@ -1,1 +1,9 @@
 # IBuiltIt
+
+
+Project Objective: Our applications intends to help communities recycle used and unwanted electronics and to be able to build from spare parts that can help the community to be able to give their electronics so it’s difficult to recycle or get rid of electronics like batteries, cellphones, speaker, computers, consoles, and other types of electronics. We as a team can ensure that any use of electronics will not be put to waste and find new purposes for them, and with your help we can give back to the community and help save the environment.
+	
+Donation: Used electronics are often disposed of irresponsibly, which leads to hazardous working conditions for waste management workers and pollution of nearby pollution. It's a proven "find stat" that people are more likely to dispose of their electronics correctly if they are contributing to a charitable cause. Our application provides an easy and accessible way for anyone to donate their electronics to an unified inventory to help underprivileged communities gain greater access to computer hardware. In the Donation section of the program we simple questions such as the model of the component and its condition. 
+			
+Build a PC: Most broken electronic components can be refurbished and reused, and many "outdated" parts are still perfectly capable in a computer for web browsing and light productivity. By creating an exchange medium that provides low-income communities with an opportunity to build very affordable to no cost computers we hope to give back to the community while also improving sustainability. Our Build section includes an inventory of all the parts donated, their current condition and compatibility with other parts. Within Build users can explore different parts and ask the program for suggestions to build a working PC. 
+
