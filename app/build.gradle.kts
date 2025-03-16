@@ -7,6 +7,7 @@ android {
     namespace = "com.example.ibuiltit"
     compileSdk = 35
 
+
     defaultConfig {
         applicationId = "com.example.ibuiltit"
         minSdk = 24
