@@ -1,8 +1,10 @@
 package com.example.ibuiltit
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
+import android.widget.Button
 import android.widget.EditText
 import android.widget.ListView
 import androidx.activity.enableEdgeToEdge
@@ -12,7 +14,6 @@ import androidx.core.view.WindowInsetsCompat
 
 class DonationActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,5 +27,6 @@ class DonationActivity : AppCompatActivity() {
     }
 
 
-
 }
+
+
